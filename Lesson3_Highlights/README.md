@@ -13,6 +13,9 @@ Web Application Development
 ## Project Description:
 (In this assignment I created a website containing information learned from the chapter. I also learned how to use GIT Version Control System.)
 
+## View Project:
+(https://aaw14.github.io/lesson3_VersionControl/Lesson3_Highlights/)
+
 ## Lessons Learned in the Assignment:
 1. (I learned that Git is not the only version control system on the marketplace right now. Some companies prefer to use their own internal product.)
 2. (I learned how to set up an SSH key.)
