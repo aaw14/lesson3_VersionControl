@@ -8,7 +8,7 @@ Web Application Development
 (September 28, 2017)
 
 ## Student Name:  
-(Alexis WOod)
+(Alexis Wood)
 
 ## Project Description:
 (In this assignment I created a website containing information learned from the chapter. I also learned how to use GIT Version Control System.)
